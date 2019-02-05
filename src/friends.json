@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://vignette.wikia.nocookie.net/kingdomhearts/images/8/89/Sora_03_KHIII.png/revision/latest?cb=20181031054331",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://vignette.wikia.nocookie.net/kingdomhearts/images/7/75/Riku_KHIII.png/revision/latest?cb=20180614200451",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://vignette.wikia.nocookie.net/kingdomhearts/images/a/a5/KairiKH3.png/revision/latest?cb=20180701020824",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://vignette.wikia.nocookie.net/kingdomheartsfanon/images/e/eb/Khbbs-ventus.jpg/revision/latest?cb=20111106211156",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://www.khwiki.com/images/thumb/3/3c/Terra_KHBBS.png/147px-Terra_KHBBS.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://www.khwiki.com/images/thumb/9/98/Aqua_KH0.2.png/286px-Aqua_KH0.2.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://www.khwiki.com/images/thumb/1/19/Master_Xehanort_KHIII.png/350px-Master_Xehanort_KHIII.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://www.khwiki.com/images/thumb/b/be/Xemnas_KHD.png/311px-Xemnas_KHD.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://www.khwiki.com/images/thumb/4/46/Vanitas_KHBBS.png/226px-Vanitas_KHBBS.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://www.khwiki.com/images/thumb/b/bd/Axel_KHHD.png/169px-Axel_KHHD.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://www.khwiki.com/images/thumb/5/53/Roxas_KHII.png/202px-Roxas_KHII.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://vignette.wikia.nocookie.net/kingdomhearts/images/0/04/NamineKH2.png/revision/latest?cb=20160102111413",
+      "clicked": false
+    }
+  ]
